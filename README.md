@@ -1,0 +1,2 @@
+- vào folder esp chạy các file ino
+- vào foler gateway để đọc readme tiếp
